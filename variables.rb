@@ -7,3 +7,6 @@ minutes = 45
 cost = 1300.00
 balance = 700.00
 paid = 600.00
+stressed = true
+tired = true
+idle = false
